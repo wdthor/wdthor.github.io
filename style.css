@@ -10,8 +10,9 @@ body {
   margin-bottom: 20px;
 }
 
-.p-margin {
-  margin-top: 10px;
+p.p-margin {
+  margin: auto 0;
+  padding: 15px 0;
 }
 
 a:link {
