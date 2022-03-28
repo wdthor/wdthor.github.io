@@ -1,15 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-	padding-top: 56px;
+  padding-top: 56px;
 }
 
 .card-deck .card {
-	margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .p-margin {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 a:link {
-	text-decoration: none;
+  text-decoration: none;
 }
